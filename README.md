@@ -13,6 +13,7 @@ Atualmente, meu foco está no desenvolvimento Back-end robusto e na integração
 * 🎓 **Estudando:** Aprofundando conhecimentos em **Java** e seu ecossistema (Spring) para construir APIs seguras, escaláveis e de alta performance.
 * 💻 **Praticando:** Criando experiências dinâmicas com **React** e **JavaScript**.
 * 🎯 **Visão 2026:** Focada em aplicar **Machine Learning e IA** dentro da Engenharia de Software, criando aplicações mais inteligentes e autônomas.
+* ⚡ **Fun Fact:** Adoro testar receitas de doces e pães
 
 
 
