@@ -4,7 +4,7 @@
 
 Sou formada em **Análise e Desenvolvimento de Sistemas** e estou em um momento estratégico de **transição de carreira**. Unindo minha bagagem profissional anterior à tecnologia, trago uma visão orientada a resultados e resolução de problemas complexos.
 
-Atualmente, meu foco está no desenvolvimento Back-end robusto e na integração de Inteligência Artificial ao desenvolvimento de sistemas.
+Atualmente, meu foco está no desenvolvimento _backend_ robusto e na integração de Inteligência Artificial ao desenvolvimento de sistemas.
 
 ---
 
